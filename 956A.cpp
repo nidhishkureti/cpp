@@ -15,11 +15,7 @@ using namespace std;
 const ll MOD = 1e9 + 7;
 void solve()
 {
-int n;
-cin>>n;
 
-f(n) cout<<i+1<<" ";
-cout<<endl;
 
 
 
